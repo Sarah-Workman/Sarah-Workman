@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/DqbDY7SShDHOo9aJjl"/>
+  <iframe src="https://giphy.com/embed/DqbDY7SShDHOo9aJjl" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DqbDY7SShDHOo9aJjl">via GIPHY</a></p>
 </div>
