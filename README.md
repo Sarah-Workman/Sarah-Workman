@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="headerImage.png" >
 </div>
 
-<div id="body" align="right">
+<div id="body" align="left">
 <h3> Connect with me <img src="">
 <h3>
 
