@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="headerImage.png" >
 </div>
-< div id="body" align="right">
+
+<div id="body" align="right">
 </div>
-<H1> 🌱 I'm currently learning more languages, and building my knowlege base..</h1>
+
+<H1> 🌱 I'm currently still pursuing my BS in application development. </h1>
 <p>  </p>
