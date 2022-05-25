@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 <img src="headerImage.png" >
 </div>
 < div id="body" align="right">
-<H1> 🌱 I'm currently learning Javascript, and will be moving into reactjs.</h1>
-<p> I have experience with java, html, css, Android Studio, visual studio code, </p>
+</div>
+<H1> 🌱 I'm currently learning more languages, and building my knowlege base..</h1>
+<p>  </p>
