@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 </div>
 
 <div id="body" align="right">
-<h3> Connect with me<h3>
+<h3> Connect with me <img src="">
+<h3>
 
 <H1> 🌱 I'm currently pursuing a BS in application development. 🌱 </h1>
 <br>
