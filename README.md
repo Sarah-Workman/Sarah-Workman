@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 <div id="body" align="right">
 </div>
 
-<H1> 🌱 I'm currently still pursuing my BS in application development. </h1>
-<p>  </p>
+<H1> 🌱 I'm currently pursuing a BS in application development. </h1>
+<br>
+<p> I have worked with java,javascript,html, and css. I'm currently learning more about javascript and hope to move on to reactjs soon.   </p>
