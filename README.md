@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="headerImage.png" >
 </div>
+< div id="body" align="right">
+<H1> 🌱 I'm currently learning Javascript, and will be moving into reactjs.</h1>
+<p> I have experience with java, html, css, Android Studio, visual studio code, </p>
