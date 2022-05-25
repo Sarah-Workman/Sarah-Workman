@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="body" align="left">
-<h3> Connect with me <img style=" height:25%, width:25%"  src="linkedin-logo-png-1840.png">
+<h3> Connect with me <img style="height:25%, width:25%"  src="linkedin-logo-png-1840.png">
 <h3>
 
 <H1> 🌱 I'm currently pursuing a BS in application development. 🌱 </h1>
