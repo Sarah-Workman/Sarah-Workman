@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <br>
 <p> I have worked with java, javascript, html, and css. I'm currently learning more about javascript and hope to move on to reactjs soon. My intention is to work with web development after completion of my degree. </p>
   
- <p> This page will showcase my growth, and skill as I continue down my career path.</p>
+ <p> This page will showcase my growth and skill as I continue down my career path.</p>
 </div>
