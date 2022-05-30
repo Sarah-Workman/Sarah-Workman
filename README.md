@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
 <img src="headerImage.png" >
-</div>
 
+
+</div>
 <div id="body" align="left">
-<h3> Connect with me <img style="height:25%, width:25%"  src="linkedin-logo-png-1840.png">
-<h3>
+<h3> Connect with me <h3>
+<img style="height:5%, width:5%"  src="linkedin-logo-png-1840.png">
+
 
 <H1> 🌱 I'm currently pursuing a BS in application development. 🌱 </h1>
 <br>
