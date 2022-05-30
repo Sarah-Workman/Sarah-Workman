@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <div id="body" align="left">
 <h3> Connect with me <h3>
-<img style="height:5%, width:5%"  src="linkedin-logo-png-1840.png">//why is this so big?
+<img height="5%" width="5%"  src="linkedin-logo-png-1840.png">
 
 
 <H1> 🌱 I'm currently pursuing a BS in application development. 🌱 </h1>
