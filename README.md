@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <div id="body" align="left">
 <h3> Connect with me <h3>
-<span><a href=""></a><img height="5%" width="5%">  src="linkedin-logo-png-1840.png"></span>
+<span><a href="www.linkedin.com/in/sarah-workman-239588184"></a><img height="5%" width="5%">  src="linkedin-logo-png-1840.png"></span>
 
 
 <H1> 🌱 I'm currently pursuing a BS in application development. 🌱 </h1>
