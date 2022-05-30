@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div id="body" align="left">
 <h3> Connect with me <h3>
 <span><a href="www.linkedin.com/in/sarah-workman-239588184"><img src="linkedin-logo-png-1840.png" width="10%" height="10%"></a></span>
-  <span><a href="https://stackoverflow.com/users/14133733/sarah-workman"><img src="stackoverflow.png" width="50%" height="50%" ></a></span> 
+  <span><a href="https://stackoverflow.com/users/14133733/sarah-workman"><img src="stackoverflow.png" width="10%" height="10%" ></a></span> 
 
 
 <H1> 🌱 I'm currently pursuing a BS in application development. 🌱 </h1>
