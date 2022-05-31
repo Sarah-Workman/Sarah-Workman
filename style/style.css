@@ -1,3 +1,4 @@
-#connectionCard {
-	display: inline;
+#body #connectionCard #heading1 {
+	float: right;
+	padding-right: 10px;
 }

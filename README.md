@@ -12,17 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
+<style>
     <link rel="stylesheet" href="style.css">
-</head>
+</style>
 <div id="header" align="center">
 <img src="headerImage.png" >
 
 </div>
-<div id="body" align="left">
+<div id="body">
 <div id="connectionCard">
-<h3> Connect with me <h3>
-<span><a href="www.linkedin.com/in/sarah-workman-239588184"><img src="linkedin.svg" width="5%" height="5%"></a></span>
+<h3 id="heading1" > Connect with me <h3>
+<span><a href="https://linkedin.com/in/sarah-workman-239588184"><img src="linkedin.svg" width="5%" height="5%"></a></span>
 <span><a href="https://stackoverflow.com/users/14133733/sarah-workman"><img src="stackoverflow.png" width="5%" height="5%" ></a></span>
 </div>
 
