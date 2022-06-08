@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
  <p> This page will showcase my growth and skill as I continue down my career path.</p>
     
-<p> -[Mobile App Class](https://github.com/Sarah-Workman/ITC-366-HW)<br>
+-[Mobile App Class](https://github.com/Sarah-Workman/ITC-366-HW)<br>
  -[Web Development Class](https://github.com/Sarah-Workman/ITC370-Web-Dev)
- </p>
+ 
 </div>
