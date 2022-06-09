@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-    <link rel="stylesheet" href="style.css">
-</style>
+
 <div id="header" align="center">
 <img src="headerImage.png" >
 
@@ -33,6 +31,7 @@ Here are some ideas to get you started:
    
 
  <p> This page will showcase my growth and skill as I continue down my career path.</p>
+  ==Educational Experience===
     
 -[Mobile App Class](https://github.com/Sarah-Workman/ITC-366-HW)<br>
  -[Web Development Class](https://github.com/Sarah-Workman/ITC370-Web-Dev)
