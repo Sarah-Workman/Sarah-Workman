@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
  <h3><strong>Mentorship</strong></h3>
  <ul>
-  <li>< a href="https://github.com/Sarah-Workman/project1_stopwatch">Stopwatch App</a></li>
+  <li><a href="https://github.com/Sarah-Workman/project1_stopwatch">Stopwatch App</a></li>
   <ul>
 
 </div>
