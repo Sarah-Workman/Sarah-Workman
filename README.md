@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<img src="headerImage.png" >
+<img src="header.png" >
 
 </div>
 <div id="body">
