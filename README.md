@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <H1> <strong>🌱 I'm currently pursuing a BS in Application Development. </strong>🌱 </h1>
 <br>
-<p> I have worked with java, javascript, html, and css. I'm currently learning more about javascript and hope to move on to reactjs soon. My intention is to work with web development after completion of my degree. </p>
+<p> I have worked with java, javascript, html, css, and sass/scss. I'm currently learning Vue, and hope to implement this into some of my ongoing learning projects.  My intention is to work with web development after completion of my degree. </p>
 
  <p> This page will showcase my growth and skill as I continue down my career path.🌱</p>
  <div><br></div>
