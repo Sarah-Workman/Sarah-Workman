@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <h3><strong>Mentorship</strong></h3>
  <ul>
   <li><a href="https://github.com/Sarah-Workman/project1_stopwatch">Stopwatch App</a></li>
-  <li><a href="https://github.com/Sarah-Workman/Vue-stopwatch-">Stopwatch App Converted to Vue Framework with Vuex</a></li>
+  <li><a href="https://github.com/Sarah-Workman/Vue-stopwatch-">Stopwatch App Converted to Vue Framework with Vuex & Firebase</a></li>
   <ul>
 
 </div>
