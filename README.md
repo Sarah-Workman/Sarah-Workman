@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 id="heading1" ><strong> Connect With Me</strong><h2>
 <span><a href="https://linkedin.com/in/sarah-workman"><img src="linkedin.svg" width="5%" height="5%"></a></span>
 <span><a href="https://stackoverflow.com/users/14133733/sarah-workman"><img src="stackoverflow.png" width="5%" height="5%" ></a></span>
-<span><a href="https://leetcode.com/Sarah-Workman/"><img src=leetCodeImg.svg" width="5%" height="5%" ></a></span>
+<span><a href="https://leetcode.com/Sarah-Workman/"><img src="leetCodeImg.svg" width="5%" height="5%" ></a></span>
 </div>
 
 <H1> <strong>🌱 I'm currently pursuing a BS in Application Development. </strong>🌱 </h1>
