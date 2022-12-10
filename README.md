@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <H1> <strong>🌱 I'm currently pursuing a BS in Application Development. </strong>🌱 </h1>
 <br>
-<p> I have worked with Java, Javascript, HTML, CSS,SQL, SASS, VUE, VUEX, and Firebase.  My intention is to start a career in web development. </p>
+<p> I have worked with Java, Web Components(with native HTML tmeplates & shadow DOM), Javascript, HTML, CSS,SQL, SASS, VUE, VUEX, and Firebase.  My intention is to start a career in web development. </p>
 
  <p> This page will showcase my growth and skill as I continue down my career path.🌱</p>
  <div><br></div>
