@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 </div>
 
 <H1> <strong>🌱 I'm currently pursuing a BS in Application Development. </strong>🌱 </h1>
+ <p>🌱I'm currently learning <img src="angularSVG.svg" width="5%" height="5%"> and <img src="C#SVG.svg" width="5%" height="5%"></p>
 <br>
-<p> I have worked with Java, Native Web Components(using native HTML templates, shadow DOM, and custom elements), Javascript, HTML, CSS,SQL, SASS, VUE, VUEX, and Firebase.  My intention is to start a career in web development. </p>
+<p> I have worked with Java, Native Web Components(using native HTML templates, shadow DOM, and custom elements), Javascript, HTML, CSS,SQL, SASS, VUE, VUEX, and Firebase.  My intention is to grow in my career as a software engineer. </p>
 
  <p> This page will showcase my growth and skill as I continue down my career path.🌱</p>
  <div><br></div>
