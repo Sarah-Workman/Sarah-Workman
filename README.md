@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 <H1> <strong>🌱 I'm currently pursuing a BS in Application Development. </strong>🌱 </h1>
- <h3>🌱I'm currently learning <img src="angularSVG.svg" width="5%" height="5%"> and <img src="CsharpSVG.svg" width="5%" height="5%"></h3>
+ <h3>🌱I'm currently learning <img src="angularSVG.svg" width="5%" height="5%">, <img src="CsharpSVG.svg" width="5%" height="5%">, and <img src="three.jsSVG.svg" width="5%" height="5%"></h3>
 <br>
 <p> I have worked with Java, Native Web Components(using native HTML templates, shadow DOM, and custom elements), Javascript, HTML, CSS,SQL, SASS, VUE, VUEX, and Firebase.  My intention is to grow in my career as a software engineer. </p>
 
