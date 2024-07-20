@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <span><a href="https://leetcode.com/Sarah-Workman/"><img src="leetCodeImg.svg" width="5%" height="5%" ></a></span>
 </div>
 
-<H1> <strong>🌱Growing Software Engineer, expanding into reactive web development, cloud development, and 3D front-end design.</strong>🌱 </h1>
+<H1> <strong>🌱Growing Software Engineer, expanding into reactive web development, cloud development, and 3D front-end development.</strong>🌱 </h1>
  <h3>🌱I'm currently learning Angular <img src="angularSVG.svg" width="5%" height="5%">, C# <img src="CsharpSVG.svg" width="5%" height="5%">,AWS, and Three.js<img src="three.jsSVG.svg" width="5%" height="5%"></h3>
 <br>
 <p> I have worked with Java, Native Web Components(using native HTML templates, shadow DOM, and custom elements), Javascript, HTML, CSS,SQL, SASS, VUE, VUEX, Angular, and Firebase.  My intention is to grow in my career as a software engineer. </p>
